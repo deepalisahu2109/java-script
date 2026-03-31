@@ -1,2 +1,1 @@
-# java-script
-java script codes
+A public repository containing javascript basic codes.
